@@ -51,11 +51,11 @@
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
 <hr><br><br>
 
-### 3. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aissue+is%3Aopen+V016) ] 
-<h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
+### 3. 키워드 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aopen+is%3Aissue+%EA%B8%88%EC%95%A1) ] 
+<h6> - 키워드 기준으로 조회를 하실 수 있습니다. </h6> 
 <br>
 
-![image](https://user-images.githubusercontent.com/100749490/176360023-eeb2fc08-8a0e-4528-aed9-a4af7eb99116.png)
+![image](https://user-images.githubusercontent.com/100749490/194199388-7d788cd2-b7b0-498a-87ab-e5f16543156a.png)
 
 <hr><br><br>
 
