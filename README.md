@@ -19,7 +19,7 @@
   
 <br>
 
-> 개발 연동 시 문의 사항 및 오류 가이드는 [ [Issues](https://github.com/ts-inicis/INICIS_Billing/issues) ] 메뉴에서 확인하실 수 있습니다.
+> 개발 연동 시 문의 사항 및 오류 가이드는 [ [Issues](https://github.com/kginicis-ts/INICIS_Billing/issues) ] 메뉴에서 확인하실 수 있습니다.
 
 <br><br><br>
 <hr>
