@@ -28,7 +28,7 @@
 # 빠른 연결
 #### 1. 공식가이드 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aopen+is%3Aissue+label%3A%EA%B3%B5%EC%8B%9D%EA%B0%80%EC%9D%B4%EB%93%9C) ]
 #### 2. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/labels/FAQ) ]
-#### 3. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aissue+is%3Aopen+V016) ]
+#### 3. 키워드 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aopen+is%3Aissue+%EA%B8%88%EC%95%A1) ] 
 #### 4. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INICIS_Billing/issues) ]
 #### 5. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INICIS_Billing/issues/new) ]
 #### 6. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues?q=is%3Aissue+is%3Aclosed) ]
