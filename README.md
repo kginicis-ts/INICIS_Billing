@@ -59,7 +59,7 @@
 
 <hr><br><br>
 
-### 4. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INICIS_Billing/issues) ]
+### 4. 댓글 달기 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues) ]
 <h6> - 게시글 내용의 제일 하단에서 의견이나 댓글을 다실 수 있습니다. </h6> 
 <br>
 
@@ -68,7 +68,7 @@
 <hr><br><br>
 
 
-### 5. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INICIS_Billing/issues/new) ]
+### 5. 게시글 생성 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Billing/issues/new) ]
 <h6> - Issues 탭에서 게시글을 생성하실 수 있습니다. </h6> 
 <br>
 
